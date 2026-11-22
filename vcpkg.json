@@ -1,0 +1,8 @@
+{
+  "name": "interpolation-lab",
+  "version-string": "1.0.0",
+  "builtin-baseline": "74f5ea45ca78988784b810ad9bbb148ea7ff76d8",
+  "dependencies": [
+    "gtest"
+  ]
+}
